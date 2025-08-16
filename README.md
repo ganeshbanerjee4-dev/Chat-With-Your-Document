@@ -16,6 +16,6 @@ Make sure you have installed:
 - Jupyter Notebook
 - Required libraries (see imports in notebook)
 
-You can install dependencies with: huggingface, langchain, pypdf2, faiss-cpu, gradio, pandas, numpy, openai
+You can install dependencies with:
 ```bash
 pip install -r requirements.txt
