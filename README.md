@@ -1,8 +1,6 @@
 # Chat With Your Document 📄💬
 
-This project is a **chatbot** that allows you to interact with your own documents.  
-You can upload a document, ask questions in natural language, and get context-aware answers from the content of the file.
-
+This project is an interactive chatbot application that allows users to upload documents and ask questions directly from the content. The chatbot processes the document, understands its context, and generates relevant answers.
 ##  Features
 - Upload and process documents (PDF, TXT, etc.)
 - Ask natural language questions
