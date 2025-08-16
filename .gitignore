@@ -1,1 +1,19 @@
-".gitignore" 
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv
+.env.*
+
+# macOS and Windows system files
+.DS_Store
+desktop.ini
+
+# VSCode settings
+.vscode/
